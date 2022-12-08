@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohammedSimo
+- 👋 Hi, I’m Simo
 - 👀 I’m interested in coding languages
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
